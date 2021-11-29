@@ -11,7 +11,7 @@ A Scala console application that retrieves data using Hive. This application is 
 - What are the 3 least popular publication times (by hour) and how many articles are published during that time? 
 - How many articles and their data are treieved? How many articles exists in total? 
 
-## technologies Used
+## Technologies Used
 - Hadoop MapReduce
 - YARN
 - HDFS
